@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-## Hosted on [TicTacToe](https://prathameshandhare.github.io/Tic-Tac-Toe/)
+## Hosted here -> [TicTacToe](https://prathameshandhare.github.io/Tic-Tac-Toe/)
 
 > [!NOTE]
 > * Completely coded using client side scripting, does not require a API, or backend framework.
