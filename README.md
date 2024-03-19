@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Tic-Tac-Tunes
 
 ## Hosted here -> [TicTacToe](https://prathameshandhare.github.io/Tic-Tac-Toe/)
 
