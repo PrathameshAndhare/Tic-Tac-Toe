@@ -1,6 +1,6 @@
 # Tic-Tac-Tunes
 
-## Hosted here -> [TicTacTunes](https://prathameshandhare.github.io/Tic-Tac-Toe/)
+## Hosted here -> [TicTacTunes](https://prathameshandhare.github.io/Tic-Tac-Tunes/)
 
 > [!NOTE]
 > * Completely coded using client side scripting, does not require a API, or backend framework.
